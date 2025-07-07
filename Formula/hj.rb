@@ -2,7 +2,7 @@ class Hj < Formula
   desc "History Jump Tool - fzf-powered directory navigation with frecency"
   homepage "https://github.com/yasukotelin/hj"
   url "https://github.com/yasukotelin/hj/archive/v1.0.0.tar.gz"
-  sha256 "REPLACE_WITH_ACTUAL_SHA256"
+  sha256 "9b1a600db5c3672b01f1727d98102633907bdacb4b2fde73c920b79f684771b4"
   license "MIT"
 
   depends_on "fzf"
